@@ -1,0 +1,137 @@
+
+
+@media only screen and (max-width:1300px) {
+
+    .h1{
+        font-size: 45px;
+    }
+
+}
+@media only screen and (max-width:1245px) {
+
+
+
+
+}
+
+@media only screen and (max-width:1130px) {
+
+    .h1{
+        font-size: 40px;
+    }
+
+}
+@media only screen and (max-width:1126px) {
+
+
+    .con{
+        width: 80%;
+    }
+
+}
+
+@media only screen and (max-width:1052.22px) {
+
+    .h1{
+        font-size: 37px;
+    }
+}
+@media only screen and (max-width:1023px) {
+
+    .con{
+
+        width: 85%;
+    }
+}
+
+
+
+@media only screen and (max-width:982.22px) {
+
+    .h1{
+        font-size: 39px;
+    }
+}
+
+@media only screen and (max-width:928.89px) {
+
+    .h1 {
+        font-size: 37px;
+    }
+    .button{
+    display: none;
+    }
+}
+
+@media only screen and (max-width:873.33px) {
+
+    .h1{
+        font-size: 33px;
+    }
+
+}
+
+@media only screen and (max-width:854px) {
+
+    .flex{
+        flex-direction: column;
+    }
+    .right{
+        width: 100%;
+    }
+    .left{
+        width: 100%;
+    }
+    .left2 {
+        width: 100%;
+        /* border: 1px solid darkslateblue; */
+        height: auto;
+        margin-right: -25px;
+        /* margin: 0 auto; */
+    }
+
+
+
+
+
+}
+
+
+@media only screen and (max-width:853px)and (min-width: 400px){
+
+
+}
+
+@media only screen and (max-width:787.78px) {
+
+
+
+    .h1 {
+        font-size: 26px;
+    }
+
+    .h2 {
+        font-size: 30px;
+        /* margin-top: -28px; */
+        margin-bottom: -17px;
+    }
+    #h2{
+        font-size: 16px;
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+
+
+    .con{
+        width: 90%;
+    }
+
+}
+@media only screen and (max-width: 500px) {
+
+
+}
+
+
