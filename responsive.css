@@ -89,6 +89,10 @@
         margin-right: -25px;
         /* margin: 0 auto; */
     }
+    .list li svg {
+        width: 20px;
+        color: rgb(34, 197, 94);
+    }
 
 
 
