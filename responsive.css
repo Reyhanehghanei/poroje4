@@ -42,6 +42,11 @@
 
         width: 85%;
     }
+    .grid{
+        grid-template-columns: 34% 34% 34%;
+    }
+
+
 }
 
 
@@ -86,7 +91,7 @@
         width: 100%;
         /* border: 1px solid darkslateblue; */
         height: auto;
-        margin-right: -25px;
+        margin-right: 0px;
         /* margin: 0 auto; */
     }
     .list li svg {
@@ -94,14 +99,6 @@
         color: rgb(34, 197, 94);
     }
 
-
-
-
-
-}
-
-
-@media only screen and (max-width:853px)and (min-width: 400px){
 
 
 }
@@ -131,9 +128,24 @@
     .con{
         width: 90%;
     }
+    .grid{
+        grid-template-columns: 50% 50%;
+    }
 
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 555px) {
+
+.a2{
+    margin-right: 555.56px;
+}
+
+
+}
+
+@media only screen and (max-width: 555.56px) {
+    .grid{
+        grid-template-columns: 100%;
+    }
 
 
 }

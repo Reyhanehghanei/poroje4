@@ -20,9 +20,13 @@ body{
 
 .con{
     width: 80%;
-   /* border: 1px solid darkred;*/
+   /*border: 1px solid darkred;*/
     margin: 0 auto;
     height: auto;
+}
+*{
+    margin: 0;
+    padding: 0;
 }
 
 .cont-f{
@@ -51,12 +55,12 @@ h1{
     align-items: center;
     background-color: rgb(14, 165, 233);
     font-weight: bolder;
-
+    text-decoration: none;
     margin-top: 15px;
 }
 
 .button:hover{
-    background-color: rgb(7, 108, 233);
+    background-color: rgb(58, 157, 233);
 }
 
 .slid{
@@ -82,7 +86,7 @@ h1{
 .h2 {
     font-size: 40px;
     /* margin-top: -28px; */
-    margin-bottom: -38px;
+    margin-bottom: -19px;
 }
 
 .h1 {
@@ -135,7 +139,7 @@ h1{
 }
 
 .a2{
-    width: 90%;
+    width: 100%;
     height: 500px;
 }
 
@@ -164,3 +168,31 @@ h1{
 .list li  label{
 margin-top: 15px;
 }
+
+.grid{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    /*border: 1px solid darkslateblue;*/
+    width:100%;
+    gap: 20px;
+    margin-top: 15px;
+    list-style: none;
+    align-items: center;
+
+}
+
+.grid img{
+   max-width:65%;
+}
+
+.grid li{
+    display: flex;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
