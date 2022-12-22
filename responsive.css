@@ -141,7 +141,22 @@
         width: 100%;
     }
 
+    .a2 img{
+
+
+    }
+
 }
+
+@media only screen and (max-width: 684px) {
+
+
+    .a2 img{
+        width: 80%;
+        margin-right: -6px;
+    }
+}
+
 @media only screen and (max-width: 555px) {
     
 }

@@ -212,6 +212,7 @@ margin-top: 15px;
 #li5{
     list-style: none;
     margin-top: 35px;
+    margin-right: -88px;
 }
 
 .list3 li {
@@ -230,6 +231,7 @@ margin-top: 15px;
     background-position: left;
     display: flex;
     justify-content: center;
+    margin-top: 10px;
 }
 .img2 h2{
     margin-top: 75px;
